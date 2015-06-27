@@ -1,0 +1,9 @@
+C:\MyTemp\MyTemp\MyTemp\bin\Debug\MyTemp.exe.config
+C:\MyTemp\MyTemp\MyTemp\bin\Debug\MyTemp.exe
+C:\MyTemp\MyTemp\MyTemp\bin\Debug\MyTemp.pdb
+C:\MyTemp\MyTemp\MyTemp\obj\Debug\MyTemp.csprojResolveAssemblyReference.cache
+C:\MyTemp\MyTemp\MyTemp\obj\Debug\MyTemp.MainForm.resources
+C:\MyTemp\MyTemp\MyTemp\obj\Debug\MyTemp.Temp.resources
+C:\MyTemp\MyTemp\MyTemp\obj\Debug\MyTemp.csproj.GenerateResource.Cache
+C:\MyTemp\MyTemp\MyTemp\obj\Debug\MyTemp.exe
+C:\MyTemp\MyTemp\MyTemp\obj\Debug\MyTemp.pdb
